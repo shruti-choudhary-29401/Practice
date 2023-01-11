@@ -1,2 +1,6 @@
 This is a sample text file.
+<<<<<<< HEAD
 this change is for the main branch.
+=======
+This text is for the new branch created.
+>>>>>>> newBranch
