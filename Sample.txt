@@ -5,3 +5,4 @@ this change is for the main branch.
 This text is for the new branch created.
 >>>>>>> newBranch
 upstream change
+upstream change 2
