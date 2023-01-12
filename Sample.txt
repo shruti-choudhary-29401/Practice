@@ -4,7 +4,5 @@ this change is for the main branch.
 =======
 This text is for the new branch created.
 >>>>>>> newBranch
-
-Hey Hello.
-local change.
-local change 2.
+upstream change
+upstream change 2
